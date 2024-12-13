@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904517373975",
+    "project_id": "uasc14220021",
+    "storage_bucket": "uasc14220021.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904517373975:android:b029c87feb470786714c52",
+        "android_client_info": {
+          "package_name": "nit2x.paba.projectroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQAF2CVEu75OJ6k2enQtHnKf3KZJn5To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
